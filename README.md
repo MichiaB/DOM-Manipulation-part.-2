@@ -41,28 +41,9 @@ This lab is the second part of a two-part assignment focused on using JavaScript
 - Handling submenu visibility and interactions
 - Debugging DOM traversal and targeting issues
 
----
 
-## Future Improvements
 
-- Add animations and transitions
-- Improve responsive mobile navigation
-- Add accessibility features
-- Convert menus into reusable components
 
----
-
-## Live Demo
-
-PASTE-GITHUB-PAGES-LINK-HERE
-
----
-
-## GitHub Repository
-
-PASTE-GITHUB-REPOSITORY-LINK-HERE
-
----
 
 ## Author
 
